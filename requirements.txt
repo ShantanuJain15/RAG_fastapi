@@ -1,0 +1,8 @@
+aiofiles
+fastapi
+uvicorn
+sentence-transformers
+chromadb
+PyPDF2
+python-docx
+aiofiles
